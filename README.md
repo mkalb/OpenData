@@ -12,6 +12,7 @@
 * [openfootball/world-cup](https://github.com/openfootball/world-cup) - Free open public domain football data for the World Cup (incl. Russia 2018, Brazil 2014, etc.) and World Cup Quali(fiers)
 * [openfootball/football.json](https://github.com/openfootball/football.json) - Free open public domain football data in JSON incl. English Premier League, Bundesliga, Primera División, Serie A and more - No API key required ;-)
 * [jokecamp/FootballData](https://github.com/jokecamp/FootballData) - A hodgepodge of JSON and CSV Football/Soccer data
+* [datasets/football-datasets](https://github.com/datasets/football-datasets) - Major Europe leagues data (England, Spain, Italy, Germany and France)
 
 ### Countries, languages, currencies, cities, ...
 * [esosedi/3166](https://github.com/esosedi/3166) - This is the best source for iso3166 codes you can found. I am sure. 
@@ -52,6 +53,7 @@
 * [umpirsky/country-list](https://github.com/umpirsky/country-list) - List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 * [openmundi/world.csv](https://github.com/openmundi/world.csv) - Free open public domain world data (incl. countries ) in comma-separated values (CSV) format - e.g. Austria, AT, AUT, 040 
 * [factbook/factbook.json](https://github.com/factbook/factbook.json) - World Factbook Country Profiles in JSON - Free Open Public Domain Data - No API Key Required ;-)
+* [datasets/top-level-domain-names](https://github.com/datasets/top-level-domain-names) - The delegation details of top-level domains
 
 ### Misc
 * [bmtgoncalves/pyNASA](https://github.com/bmtgoncalves/pyNASA) - A simple interface to Open NASA datasets
@@ -69,3 +71,8 @@
 * [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
 * [awesomedata/apd-core](https://github.com/awesomedata/apd-core) - Awesome Public Datasets Core
 * [railsmechanic/firstnames-to-gender](https://github.com/railsmechanic/firstnames-to-gender) - More than 40,000 firstnames with their country specific gender
+* [datasets/cpi](https://github.com/datasets/cpi) - Annual consumer price index datapackage for most countries in the world
+
+## Websites with open data
+* [www.openml.org/](https://www.openml.org/) - OpenML
+* [datahub.io/core](https://datahub.io/core) - Open data - core datasets
