@@ -76,3 +76,6 @@
 ## Websites with open data
 * [www.openml.org/](https://www.openml.org/) - OpenML
 * [datahub.io/core](https://datahub.io/core) - Open data - core datasets
+* [data.europa.eu/euodp/en/data/](http://data.europa.eu/euodp/en/data/) - EU Open Data Portal
+* [opengovernmentdata.org/data/](https://opengovernmentdata.org/data/) - Open Government Data
+
