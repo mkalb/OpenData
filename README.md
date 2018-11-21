@@ -74,17 +74,15 @@
 * [datasets/cpi](https://github.com/datasets/cpi) - Annual consumer price index datapackage for most countries in the world
 
 ## Websites with open data
-* [www.openml.org/](https://www.openml.org/) - OpenML
+* [openml.org](https://www.openml.org/) - OpenML
 * [datahub.io/core](https://datahub.io/core) - Open data - core datasets
-* [data.europa.eu/euodp/en/data/](http://data.europa.eu/euodp/en/data/) - EU Open Data Portal
-* [opengovernmentdata.org/data/](https://opengovernmentdata.org/data/) - Open Government Data
-* [govdata.de/](https://www.govdata.de/) - GovData - Das Datenportal für Deutschland
-* [data.deutschebahn.com/](http://data.deutschebahn.com/) - Deutsche Bahn - Open Data Portal
-* [data.gv.at/](https://www.data.gv.at/) - Offene Daten Österreich
-* [opendataportal.at/](https://www.opendataportal.at/) - Open Data Portal Österreich
-* [opendata.swiss/](https://opendata.swiss/) - opendata.swiss
-* [gdeltproject.org/](https://www.gdeltproject.org/) - The GDELT Project
-* [pangaea.de/)(https://www.pangaea.de/) - PANGAEA - Data Publisher for Earth & Environmental Science
-* [wikidata.org)(https://www.wikidata.org) - Wikidata
-
-
+* [data.europa.eu/euodp/en/data](http://data.europa.eu/euodp/en/data/) - EU Open Data Portal
+* [opengovernmentdata.org/data](https://opengovernmentdata.org/data/) - Open Government Data
+* [govdata.de](https://www.govdata.de/) - GovData - Das Datenportal für Deutschland
+* [data.deutschebahn.com](http://data.deutschebahn.com/) - Deutsche Bahn - Open Data Portal
+* [data.gv.at](https://www.data.gv.at/) - Offene Daten Österreich
+* [opendataportal.at](https://www.opendataportal.at/) - Open Data Portal Österreich
+* [opendata.swiss](https://opendata.swiss/) - opendata.swiss
+* [gdeltproject.org](https://www.gdeltproject.org/) - The GDELT Project
+* [pangaea.de](https://www.pangaea.de/) - PANGAEA - Data Publisher for Earth & Environmental Science
+* [wikidata.org](https://www.wikidata.org) - Wikidata
