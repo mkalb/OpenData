@@ -78,4 +78,4 @@
 * [datahub.io/core](https://datahub.io/core) - Open data - core datasets
 * [data.europa.eu/euodp/en/data/](http://data.europa.eu/euodp/en/data/) - EU Open Data Portal
 * [opengovernmentdata.org/data/](https://opengovernmentdata.org/data/) - Open Government Data
-
+* [govdata.de/](https://www.govdata.de/) - GovData - Das Datenportal für Deutschland
