@@ -86,3 +86,6 @@
 * [gdeltproject.org](https://www.gdeltproject.org/) - The GDELT Project
 * [pangaea.de](https://www.pangaea.de/) - PANGAEA - Data Publisher for Earth & Environmental Science
 * [wikidata.org](https://www.wikidata.org) - Wikidata
+* [europeandataportal.eu/de/](https://www.europeandataportal.eu/de/) - Europäisches Datenportal
+* [dataportals.org/](http://dataportals.org/) - Data Portals
+
