@@ -54,6 +54,7 @@
 * [openmundi/world.csv](https://github.com/openmundi/world.csv) - Free open public domain world data (incl. countries ) in comma-separated values (CSV) format - e.g. Austria, AT, AUT, 040 
 * [factbook/factbook.json](https://github.com/factbook/factbook.json) - World Factbook Country Profiles in JSON - Free Open Public Domain Data - No API Key Required ;-)
 * [datasets/top-level-domain-names](https://github.com/datasets/top-level-domain-names) - The delegation details of top-level domains
+* [geonames.org/](https://www.geonames.org/) - GeoNames
 
 ### Misc
 * [bmtgoncalves/pyNASA](https://github.com/bmtgoncalves/pyNASA) - A simple interface to Open NASA datasets
