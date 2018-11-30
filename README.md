@@ -72,6 +72,8 @@
 * [awesomedata/apd-core](https://github.com/awesomedata/apd-core) - Awesome Public Datasets Core
 * [railsmechanic/firstnames-to-gender](https://github.com/railsmechanic/firstnames-to-gender) - More than 40,000 firstnames with their country specific gender
 * [datasets/cpi](https://github.com/datasets/cpi) - Annual consumer price index datapackage for most countries in the world
+* [CUTR-at-USF/awesome-transit](https://github.com/CUTR-at-USF/awesome-transit) - Community list of transit APIs, apps, datasets, research, and software
+* [APIs-guru/openapi-directory](https://github.com/APIs-guru/openapi-directory) - Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format
 
 ## Websites with open data
 * [openml.org](https://www.openml.org/) - OpenML
