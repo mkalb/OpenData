@@ -91,5 +91,5 @@
 * [europeandataportal.eu/de/](https://www.europeandataportal.eu/de/) - Europäisches Datenportal
 * [dataportals.org/](http://dataportals.org/) - Data Portals
 * [geonames.org/](https://www.geonames.org/) - GeoNames
-
+* [data.gov/](https://www.data.gov/) - DATA.GOV - The home of the U.S. Government’s open data
 
